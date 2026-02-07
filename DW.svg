@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   viewBox="0 0 400 400"
+   width="400"
+   height="400"
    version="1.1"
-   id="svg5"
+   id="svg2121"
+   sodipodi:docname="house.svg"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
-   sodipodi:docname="DW.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2125" />
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview2123"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -22,29 +22,105 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.2102413"
-     inkscape:cx="397.16269"
-     inkscape:cy="563.63806"
+     inkscape:zoom="0.59"
+     inkscape:cx="199.15254"
+     inkscape:cy="200.84746"
      inkscape:window-width="1512"
      inkscape:window-height="920"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2" />
+     inkscape:current-layer="svg2121" />
+  <!-- Isometric house -->
+  <!-- Left wall -->
+  <polygon
+     points="200,240 200,120 60,200 60,320 "
+     fill="#c0392b"
+     stroke="#2c3e50"
+     stroke-width="2"
+     id="polygon2081"
+     transform="matrix(1.1938645,0,0,0.86491906,64.050023,48.307473)" />
+  <!-- Right wall -->
+  <path
+     id="polygon2083"
+     style="fill:#e74c3c;stroke:#2c3e50;stroke-width:1.67782"
+     d="M 135.93025,221.81147 V 322.48056 L 18.482981,255.36783 V 154.69874 Z" />
+  <!-- Floor (bottom) -->
+  <!-- Roof left -->
+  <!-- Roof right -->
+  <path
+     id="polygon2089"
+     style="fill:#3498db;stroke:#2c3e50;stroke-width:1.67782"
+     d="M 19.904857,157.54251 92.420729,127.39865 132.9443,221.10054 Z"
+     sodipodi:nodetypes="cccc" />
+  <!-- Roof ridge connectors -->
+  <!-- Door on right wall -->
+  <path
+     id="polygon2095"
+     style="fill:#666666;stroke:#2c3e50;stroke-width:1.67782"
+     d="m 54.883104,279.96636 41.945455,25.16727 V 238.0209 L 54.883104,212.85363 Z" />
+  <!-- Door knob -->
+  <!-- Window on left wall -->
+  <polygon
+     points="100,220 100,270 145,245 145,195 "
+     fill="#85c1e9"
+     stroke="#2c3e50"
+     stroke-width="2"
+     id="polygon2099"
+     transform="matrix(0.93464943,0,0,0.76366358,144.53494,46.698218)" />
+  <!-- Window cross -->
+  <!-- Rainbow arcs coming out of window -->
+  <!-- Each arc is offset slightly and colored for rainbow bands -->
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="opacity:0.4;fill:#800000;stroke:#000000;stroke-width:0.703001;stroke-linecap:square;stroke-linejoin:round"
-       id="rect788"
-       width="47.822033"
-       height="52.85593"
-       x="18.877117"
-       y="81.800842" />
+     fill="none"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="g2117"
+     transform="matrix(0.03004607,0.83837087,-0.83837087,0.03004607,461.67698,133.94562)">
+    <path
+       d="M 100,230 C 50,200 10,140 30,80"
+       stroke="#e74c3c"
+       opacity="0.85"
+       id="path2105" />
+    <path
+       d="M 100,233 C 52,205 14,148 36,88"
+       stroke="#e67e22"
+       opacity="0.85"
+       id="path2107" />
+    <path
+       d="M 100,236 C 54,210 18,156 42,96"
+       stroke="#f1c40f"
+       opacity="0.85"
+       id="path2109" />
+    <path
+       d="M 100,239 C 56,215 22,164 48,104"
+       stroke="#2ecc71"
+       opacity="0.85"
+       id="path2111" />
+    <path
+       d="M 100,242 C 58,220 26,172 54,112"
+       stroke="#3498db"
+       opacity="0.85"
+       id="path2113" />
+    <path
+       d="M 100,245 C 60,225 30,180 60,120"
+       stroke="#8e44ad"
+       opacity="0.85"
+       id="path2115" />
   </g>
+  <!-- Ground shadow -->
+  <ellipse
+     cx="200"
+     cy="395"
+     rx="160"
+     ry="10"
+     fill="#2c3e50"
+     opacity="0.15"
+     id="ellipse2119" />
+  <path
+     id="polygon2089-6"
+     style="fill:#1a6292;fill-opacity:1;stroke:#2c3e50;stroke-width:1.67782"
+     d="m 92.85395,126.47172 154.9849,-55.737687 49.41033,82.397927 -163.87166,71.0229 z"
+     sodipodi:nodetypes="ccccc" />
 </svg>
