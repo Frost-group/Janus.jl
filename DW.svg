@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 400 400"
-   width="400"
-   height="400"
+   viewBox="0 0 453.67542 273.46191"
+   width="453.67542"
+   height="273.46191"
    version="1.1"
    id="svg2121"
    sodipodi:docname="DW.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="1.9325511"
-     inkscape:cx="267.78075"
-     inkscape:cy="198.44236"
+     inkscape:zoom="1.6724199"
+     inkscape:cx="223.92702"
+     inkscape:cy="151.57677"
      inkscape:window-width="1512"
      inkscape:window-height="920"
      inkscape:window-x="0"
@@ -34,35 +34,36 @@
      inkscape:current-layer="svg2121">
     <inkscape:grid
        type="xygrid"
-       id="grid854" />
+       id="grid854"
+       originx="57.164734"
+       originy="-67.744063" />
   </sodipodi:namedview>
   <!-- Isometric house -->
   <!-- Left wall -->
   <path
      id="polygon2081"
-     transform="matrix(1.1938645,0,0,0.86491906,64.050023,48.307473)"
-     style="fill:#c0392b;stroke:#2c3e50;stroke-width:2"
-     d="M 200,236.90929 V 120 L 60,200 v 116.90929 z"
+     style="fill:#c0392b;stroke:#2c3e50;stroke-width:2.03233"
+     d="M 373.98765,185.47077 V 84.353696 L 206.84662,153.54723 V 254.6643 Z"
      sodipodi:nodetypes="ccccc" />
   <!-- Right wall -->
   <path
      id="polygon2083"
      style="fill:#e74c3c;stroke:#2c3e50;stroke-width:1.67782"
-     d="M 135.93025,221.81147 V 322.48056 L 18.482981,255.36783 V 154.69874 Z" />
+     d="M 207.09498,154.06741 V 254.7365 L 89.647714,187.62377 V 86.954676 Z" />
   <!-- Floor (bottom) -->
   <!-- Roof left -->
   <!-- Roof right -->
   <path
      id="polygon2089"
      style="fill:#3498db;stroke:#2c3e50;stroke-width:1.67782"
-     d="m 19.904857,156.04271 76.515361,-30.6438 40.023632,97.20144 z"
+     d="m 91.06959,88.298646 76.51536,-30.6438 40.02363,97.201444 z"
      sodipodi:nodetypes="cccc" />
   <!-- Roof ridge connectors -->
   <!-- Door on right wall -->
   <path
      id="polygon2095"
      style="fill:#666666;stroke:#2c3e50;stroke-width:1.67782"
-     d="m 46.884127,270.46757 41.945455,25.16727 V 228.52211 L 46.884127,203.35484 Z" />
+     d="m 118.04886,202.72351 41.94545,25.16727 v -67.11273 l -41.94545,-25.16727 z" />
   <!-- Door knob -->
   <!-- Window on left wall -->
   <polygon
@@ -71,7 +72,7 @@
      stroke="#2c3e50"
      stroke-width="2"
      id="polygon2099"
-     transform="matrix(0.99434768,0,0,0.72309927,137.98568,58.038859)" />
+     transform="matrix(0.99434768,0,0,0.72309927,209.15041,-9.7052055)" />
   <!-- Window cross -->
   <!-- Rainbow arcs coming out of window -->
   <!-- Each arc is offset slightly and colored for rainbow bands -->
@@ -80,7 +81,7 @@
      stroke-width="4"
      stroke-linecap="round"
      id="g2117"
-     transform="matrix(0.03004607,0.83837087,-0.83837087,0.03004607,446.17896,149.44364)"
+     transform="matrix(0.03004607,0.83837087,-0.83837087,0.03004607,517.34369,81.699576)"
      style="stroke-width:5.96012;stroke-dasharray:none">
     <path
        d="M 100,230 C 50,200 10,140 30,80"
@@ -120,17 +121,19 @@
        style="stroke-width:5.96012;stroke-dasharray:none" />
   </g>
   <!-- Ground shadow -->
-  <ellipse
-     cx="200"
-     cy="395"
-     rx="160"
-     ry="10"
-     fill="#2c3e50"
-     opacity="0.15"
-     id="ellipse2119" />
   <path
      id="polygon2089-6"
      style="fill:#1a6292;fill-opacity:1;stroke:#2c3e50;stroke-width:1.67782"
-     d="M 94.853694,124.97191 252.33827,69.234225 301.24866,153.13196 135.37726,222.65505 Z"
+     d="M 166.01842,57.227846 325.14354,1.0214345 374.28829,84.684806 206.54199,154.91099 Z"
      sodipodi:nodetypes="ccccc" />
+  <path
+     fill="none"
+     stroke="#0071bc"
+     stroke-width="0.75"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     d="m 1.8038599,271.65807 c 3.48667,-1.54224 6.96759,-3.09548 10.4284501,-4.69239 3.30937,-1.52773 6.61278,-3.10063 9.79508,-4.85919 3.36917,-1.86273 6.58209,-3.91119 9.45932,-6.33572 2.86686,-2.41661 5.13163,-5.16644 7.06515,-8.06964 1.87999,-2.82119 3.26584,-5.88102 4.35982,-8.8572 1.12657,-3.06178 2.06606,-6.13767 2.83882,-9.21913 0.79652,-3.17464 1.50127,-6.34803 2.18734,-9.52195 0.67279,-3.11161 1.34939,-6.22085 2.10342,-9.33244 0.73652,-3.04204 1.62032,-6.12916 2.92206,-9.13458 0.67451,-1.55715 1.5156,-3.05014 2.54639,-4.51671 1.00304,-1.42682 2.44795,-2.61628 4.13059,-3.47214 1.70691,-0.86783 3.65416,-0.94375 5.3762,-0.85563 1.76171,0.0903 3.41063,0.57972 4.96095,1.0822 3.19657,1.03214 6.06867,2.54698 8.88814,4.05332 2.73278,1.46025 5.3592,3.03984 8.00392,4.59391 2.7854,1.63698 5.57053,3.27541 8.43303,4.83146 2.77607,1.51057 5.62394,2.95331 8.62615,4.19248 3.0783,1.2717 6.30198,2.32358 9.76357,2.98789 3.40337,0.65151 7.00352,0.74373 10.699,0.36984 3.55616,-0.35928 7.21504,-1.30912 10.69987,-2.47057 3.58271,-1.19291 7.0963,-2.57279 10.59554,-4.01701 3.45902,-1.42647 6.89478,-2.91435 10.32714,-4.40579 0.17584,-0.0767 0.34783,-0.15175 0.52253,-0.22687"
+     id="path2030"
+     style="fill:#008000;stroke:#00ff00;stroke-width:3.60772;stroke-dasharray:none" />
 </svg>
